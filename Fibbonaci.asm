@@ -1,6 +1,3 @@
-#COSC2440 Homework 6
-#Tony Trong Le
-#PSID: 1553677
 
 .data
 	message: .asciiz "Enter a number : "
